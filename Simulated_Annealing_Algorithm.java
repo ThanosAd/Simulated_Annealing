@@ -1,4 +1,4 @@
-/*import java.util.Random;
+import java.util.Random;
 public class Simulated_Annealing_Algorithm {
 	
 	//Hitori_Puzzle Current;
@@ -51,4 +51,4 @@ public class Simulated_Annealing_Algorithm {
 	
 	
 	
-}*/
+}
